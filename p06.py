@@ -1,5 +1,5 @@
 # p06.py Movie Box Office Prediction
-# updated 12/10/2019 by Praneeth Mekala
+# updated 12/10/2020 by Praneeth Mekala
 #
 import matplotlib.pyplot as plt
 import scipy.stats as stats
